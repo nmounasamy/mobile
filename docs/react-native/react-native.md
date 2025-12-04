@@ -54,6 +54,10 @@ brew install yarn
 ```
 
 ```
+brew install yarn@1.22.22
+```
+
+```
 yarn -v
 ```
 
